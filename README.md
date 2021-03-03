@@ -10,3 +10,12 @@
 海盗船处于雷达范围内时，玩家可以按tab锁定然后A发射导弹，发出去的导弹基本会被海盗船用激光打掉所以还是别用了
 玩家也可以击落海盗船发射的导弹，只要船头正对着它，激光会自动开火，对于海盗船同理
 每种船都有一个机制简单（弱智）的AI，整个生态系非常和谐（
+
+来几张图：
+
+![image](https://github.com/ShorRin/UoL-fyp-game/blob/master/screenshots/QQ%E5%9B%BE%E7%89%8720210303185326.png)
+![image](https://github.com/ShorRin/UoL-fyp-game/blob/master/screenshots/QQ%E5%9B%BE%E7%89%8720210303185418.png)
+![image](https://github.com/ShorRin/UoL-fyp-game/blob/master/screenshots/QQ%E5%9B%BE%E7%89%8720210303192001.png)
+![image](https://github.com/ShorRin/UoL-fyp-game/blob/master/screenshots/QQ%E5%9B%BE%E7%89%8720210303192144.png)
+![image](https://github.com/ShorRin/UoL-fyp-game/blob/master/screenshots/QQ%E5%9B%BE%E7%89%8720210303192214.png)
+
